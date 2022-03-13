@@ -32,5 +32,6 @@
 ## 新手懒人教程 
 
 
-
+### 以下是一些参考链接
 #### MarkDown简单语法指南：https://www.jianshu.com/p/191d1e21f7ed
+#### GitHub 的 Pull Request：https://www.zhihu.com/question/21682976
