@@ -1,12 +1,12 @@
-##常用浏览器钱包插件
->####EVM：Metamask (小狐狸钱包）
+## 常用浏览器钱包插件
+>#### EVM：Metamask (小狐狸钱包）
 >https://metamask.io/
 
->####COSMOS：Keplr
+>#### COSMOS：Keplr
 >https://www.keplr.app/
 
->####TERRA: Terra Station wallet
+>#### TERRA: Terra Station wallet
 >https://chrome.google.com/webstore/detail/terra-station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp
 
->####SOLANA: Phantom
+>#### SOLANA: Phantom
 >https://phantom.app/
