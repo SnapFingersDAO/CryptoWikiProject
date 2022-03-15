@@ -37,7 +37,7 @@ https://docs.google.com/document/d/1K-EGy8XO1h87zk_F-XHnCFM2TwpcIRnOckT0vw2gXl0/
 
 响指百科计划是我们成为新手友好社区的重要的一步，这么多响指成员共同创作新手攻略，想想就不可思议！快用你宝贵的经验与智慧，和我们一起集结更多的响指人吧！
 
-[点我进入目录](/index.md)
+[点我进入目录](/INDEX.md)
 
 
 
