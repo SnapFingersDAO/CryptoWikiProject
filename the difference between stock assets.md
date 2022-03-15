@@ -1,1 +1,0 @@
-## Crypto assets are digital assets that utilize cryptography, peer-to-peer networks, and public ledgers to regulate the generation of new units, verify transactions, and secure transactions without the intervention of any intermediary
