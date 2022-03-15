@@ -1,4 +1,4 @@
-## Any savvy investor needs to know exactly what they’re investing in. It’s crucial to weigh the risks and rewards of investing, and what will drive the investment’s success. If they don’t have this kind of information, they can’t make the calculation. In this case, it’s not really investing — it’s much more like gambling.
+## "Any savvy investor needs to know exactly what they’re investing in. It’s crucial to weigh the risks and rewards of investing, and what will drive the investment’s success. If they don’t have this kind of information, they can’t make the calculation. In this case, it’s not really investing — it’s much more like gambling"
 
 Here are the key things investors need to know about stocks and cryptocurrency.
 
