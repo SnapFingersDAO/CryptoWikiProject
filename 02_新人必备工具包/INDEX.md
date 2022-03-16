@@ -10,8 +10,6 @@ Telegram |Tg是跨平台的即时通信软件 |https://telegram.org/
 Mirror |一款去中心化的写作平台，平台上有许多优秀的文章|https://mirror.xyz/
 
 ## 主流钱包推荐及下载使用教程
-
-
 目前使用最多的去中心化钱包Metamask ，下载链接：(https://metamask.io/ )
 该钱包包含了大部分兼容EVM链的区块链网络。
 使用教程：https://zhuanlan.zhihu.com/p/112285438  （转载自知乎，作者：刘剑）
@@ -32,7 +30,9 @@ Trezor   官网链接：https://trezor.io/
 
 ## 行情工具推荐
 在进入加密市场之前，如果在其他市场有过交易经验，喜欢做交易的人，给大家推荐几款不错的观看行情的软件。
+
 tradingview https://cn.tradingview.com/
+
 coinglass  https://www.coinglass.com/
 
 ## 其他
